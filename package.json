@@ -1,0 +1,15 @@
+{
+  "name": "fitness247firestoreexport",
+  "version": "1.0.0",
+  "description": "Firestore collection exporter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node export.js"
+  },
+  "author": "Anthony Buzzelli",
+  "license": "MIT",
+  "dependencies": {
+    "firestore-export-import": "^0.17.0",
+    "fs-extra": "^10.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "id": "467",
+      "lastName": "Gomez",
+      "firstName": "Christine",
+      "email": "rodney46@example.net",
+      "phoneNumber": "7129754640"
+    },
+    {
+      "id": "701",
+      "lastName": "Hanson",
+      "firstName": "Michael",
+      "email": "nicolewells@example.com",
+      "phoneNumber": "7586393100"
+    },
+    {
+      "id": "650",
+      "lastName": "Keller",
+      "firstName": "Joseph",
+      "email": "michelle13@example.org",
+      "phoneNumber": "5206783876"
+    }
+  ]
+}
